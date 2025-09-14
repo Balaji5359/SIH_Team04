@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import { Moon, Sun, Globe } from 'lucide-react';
+import { Moon, Sun } from 'lucide-react';
 import WelcomeSection from './components/sections/WelcomeSection';
 import AptitudeQuiz from './components/sections/AptitudeQuiz';
 import RecommendationEngine from './components/sections/RecommendationEngine';

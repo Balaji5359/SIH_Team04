@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { ChevronRight, CheckCircle, Brain, Award } from 'lucide-react';
+import { ChevronRight, Brain, Award } from 'lucide-react';
 
 const AptitudeQuiz = () => {
   const [currentQuestion, setCurrentQuestion] = useState(0);
