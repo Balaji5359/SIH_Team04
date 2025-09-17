@@ -1,0 +1,2 @@
+- [ ] Update RegisterFormData type in src/pages/Auth/Register.tsx to change language from string to "en" | "hi"
+- [ ] Verify that TypeScript compilation errors are resolved
