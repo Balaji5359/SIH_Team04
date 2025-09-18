@@ -10,6 +10,7 @@ import Recommendations from './pages/Recommendations';
 import Colleges from './pages/Colleges';
 import Admin from './pages/Admin';
 import Notifications from './pages/Notifications';
+// ok done
 
 const PrivateRoute: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const { isAuthenticated, loading } = useAuth();
